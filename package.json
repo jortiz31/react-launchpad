@@ -1,0 +1,25 @@
+{
+  "name": "react-launchpad",
+  "version": "1.0.0",
+  "description": "react-launchpad: a fast built ready to use react/redux env w/tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jortiz31/react-launchpad.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "flexbox",
+    "spectrum"
+  ],
+  "author": "joortiz@adobe.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jortiz31/react-launchpad/issues"
+  },
+  "homepage": "https://github.com/jortiz31/react-launchpad#readme"
+}
